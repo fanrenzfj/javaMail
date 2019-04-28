@@ -14,7 +14,6 @@ import java.util.stream.Collectors;
 
 public class ListEmail {
     public static void main(String[] args) throws Exception {
-        //上传git啊
         // 邮箱的用户名
         String user = "zhengshuai@suitbim.com";
         //如果是网易邮箱 需要开启IMAP服务 并且设置连接口令，此就是登录口令。 其他邮箱不需要 直接是密码
